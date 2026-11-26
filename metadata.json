@@ -1,0 +1,8 @@
+{
+  "name": "VOTEXA",
+  "description": "VOTEXA — Every Voice Matters, Every Vote Counts. Secure online voting platform integrated with a preserved Python voting engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
